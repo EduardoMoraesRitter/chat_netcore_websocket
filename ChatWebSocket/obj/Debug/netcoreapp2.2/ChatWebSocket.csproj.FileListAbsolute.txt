@@ -1,0 +1,11 @@
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\bin\Debug\netcoreapp2.2\ChatWebSocket.deps.json
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\bin\Debug\netcoreapp2.2\ChatWebSocket.runtimeconfig.json
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\bin\Debug\netcoreapp2.2\ChatWebSocket.runtimeconfig.dev.json
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\bin\Debug\netcoreapp2.2\ChatWebSocket.dll
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\obj\Debug\netcoreapp2.2\ChatWebSocket.csprojAssemblyReference.cache
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\obj\Debug\netcoreapp2.2\ChatWebSocket.csproj.CoreCompileInputs.cache
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\obj\Debug\netcoreapp2.2\ChatWebSocket.RazorAssemblyInfo.cache
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\obj\Debug\netcoreapp2.2\ChatWebSocket.RazorAssemblyInfo.cs
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\obj\Debug\netcoreapp2.2\ChatWebSocket.AssemblyInfoInputs.cache
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\obj\Debug\netcoreapp2.2\ChatWebSocket.AssemblyInfo.cs
+C:\Users\Ritter\Documents\GitHub\chat_netcore_websocket\ChatWebSocket\obj\Debug\netcoreapp2.2\ChatWebSocket.RazorTargetAssemblyInfo.cache
